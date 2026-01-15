@@ -34,8 +34,8 @@ model Usuario {
 }
 
 enum Role {
+  USER
   ADMIN
   GERENTE
   MECANICO
-  USER
 }
